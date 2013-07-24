@@ -1,4 +1,4 @@
-package batman123579.moarores.common;
+package batman123579.moarores;
 
 import net.minecraft.block.Block;
 import net.minecraft.entity.player.EntityPlayer;

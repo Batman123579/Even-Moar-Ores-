@@ -1,4 +1,4 @@
-package batman123579.moarores.common.handlers;
+package batman123579.moarores;
 
 import java.io.ByteArrayInputStream;
 import java.io.DataInputStream;

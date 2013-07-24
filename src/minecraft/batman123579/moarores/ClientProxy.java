@@ -1,6 +1,6 @@
-package batman123579.moarores.client;
+package batman123579.moarores;
 
-import batman123579.moarores.common.CommonProxy;
+import batman123579.moarores.CommonProxy;
 import net.minecraftforge.client.MinecraftForgeClient;
 
 public class ClientProxy extends CommonProxy {
